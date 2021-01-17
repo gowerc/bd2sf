@@ -1,0 +1,9 @@
+
+
+.DS_Store
+.DS_store
+
+__pycache__
+.vscode
+books/*
+*.html
